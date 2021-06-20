@@ -108,5 +108,4 @@ venv.bak/
 .vscode
 
 # pretrained stuff
-/model_dir/
-/d2_detection_data
+
